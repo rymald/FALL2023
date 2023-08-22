@@ -17,6 +17,25 @@ footer {
 
 }
 
-.4205{
+.crabgrounds {
+	background-image: 
+	linear-gradient(rgba(115, 191, 255, 0.5), rgba(229, 172, 103, 1.0)),
+/*	linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),*/
+  	url("../img/crab-background.png");
+  	background-repeat: no-repeat;
 
 }
+
+/*.blues {
+	rgba(115, 191, 255, 0.5) 73bfff
+}
+
+.redsand {
+	rgba(229, 172, 103, 0.5) e5ac67
+
+}
+
+.teallight {
+	rgba(134, 206, 170, 0.5) 86ceaa
+
+}*/
